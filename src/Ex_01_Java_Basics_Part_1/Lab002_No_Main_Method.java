@@ -1,4 +1,4 @@
-package Ex_01_Java_Basics;
+package Ex_01_Java_Basics_Part_1;
 
 public class Lab002_No_Main_Method {
     public static void main(String[] args) {

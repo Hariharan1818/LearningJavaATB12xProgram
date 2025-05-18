@@ -1,6 +1,4 @@
-package Ex_01_Java_Basics;
-
-import java.sql.SQLOutput;
+package Ex_01_Java_Basics_Part_1;
 
 public class Lab004_MultipleComments {
     public static void main(String[] args) {
